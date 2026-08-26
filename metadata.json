@@ -1,0 +1,6 @@
+{
+  "name": "Indian Female Voice TTS",
+  "description": "Natural human-like Indian female text-to-speech converter with authentic accent, emotion controls, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
